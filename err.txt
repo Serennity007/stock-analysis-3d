@@ -1,2 +1,0 @@
-To https://github.com/Serennity007/stock-analysis-3d.git
- * [new branch]      HEAD -> main
